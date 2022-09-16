@@ -2,3 +2,4 @@ hello git
 hello Java
 test squash-1
 squash-2
+squash-3
