@@ -4,6 +4,5 @@ hello git
 hello Java
 test squash-1
 squash-2
-squash-3
-mock rebase abort on main
 main flag
+squash-3 mock rebase abort on featrue-b
