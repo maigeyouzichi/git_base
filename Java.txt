@@ -3,3 +3,4 @@ hello Java update on cherry 3
 hello kotlin
 cherry 01
 cherry 02
+--amend  --amend
