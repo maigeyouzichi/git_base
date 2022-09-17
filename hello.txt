@@ -7,3 +7,4 @@ squash-2
 squash-3 mock rebase abort on featrue-b
 squash-3
 mock rebase abort on main
+main flag
