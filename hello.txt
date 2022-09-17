@@ -1,4 +1,4 @@
-hello git
+hello git on main
 hello git
 hello Java
 test squash-1
