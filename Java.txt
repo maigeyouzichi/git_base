@@ -7,3 +7,8 @@ cherry 02
 rebase squash -- 1
 rebase squash -- 2
 rebase squash -- 3
+fun 1 done
+fun 2 done
+fun 3 done
+fun 4 done
+fun 5 done
