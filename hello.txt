@@ -6,3 +6,5 @@ test squash-1
 squash-2
 main flag
 squash-3 mock rebase abort on featrue-b
+squash-3
+mock rebase abort on main
