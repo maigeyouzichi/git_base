@@ -4,3 +4,6 @@ hello kotlin
 cherry 01
 cherry 02
 --amend  --amend
+rebase squash -- 1
+rebase squash -- 2
+rebase squash -- 3
