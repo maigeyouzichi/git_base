@@ -3,3 +3,4 @@ hello Java
 test squash-1
 squash-2
 squash-3
+simple push
